@@ -1,3 +1,5 @@
+// O(n) time and O(n) space
+
 function twoNumberSum(array , target){
   const nums ={};
 
